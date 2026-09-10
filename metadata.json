@@ -1,0 +1,6 @@
+{
+  "name": "হিসাব খাতা - পাইকারি ব্যবসা",
+  "description": "পাইকারি ব্যবসার সহজ ডিজিটাল হিসাব খাতা - বিক্রি, নগদ আদায় ও বাকি ব্যবস্থাপনা",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
